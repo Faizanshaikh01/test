@@ -28,7 +28,7 @@ h1 {
 
 /* View: Phone detail */
 .phone {
-  background-color: white;
+  background-color: blue;
   display: none;
   float: left;
   height: 400px;
